@@ -1,4 +1,5 @@
 # H\&M Two-Stage Recommendation Engine
+![Demo](demo.png)
 
 An end-to-end, production-style recommender system built on the H\&M Personalized Fashion
 Recommendations dataset (Kaggle). It uses the same two-stage design as large-scale industry
